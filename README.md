@@ -94,4 +94,4 @@ public void increment() {
 - **Outils** : Android Studio, ADB (Android Debug Bridge)
 
 ---
-*Réalisé par **Bouanane** dans le cadre d'un laboratoire sur les composants d'architecture Android.*
+*Réalisé par **Bouanani Noussair** dans le cadre du cours Programmation Mobile : Android avec Java.*
