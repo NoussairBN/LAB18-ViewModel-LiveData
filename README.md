@@ -44,7 +44,13 @@ Le dossier `videos/` contient les enregistrements de nos sessions de test :
 Démonstration de la perte de données sans architecture Jetpack.
 - **Scénario** : Incrémenter le compteur -> Rotation de l'écran.
 - **Observation** : Le compteur revient immédiatement à zéro.
-- [▶️ Voir la vidéo du Problème de Rotation](videos/Test1_ViewModel_LiveData_Android.mp4)
+- [▶️ Voir la vidéo du Problème de Rotation]
+
+  
+
+https://github.com/user-attachments/assets/59f2087c-dacc-403b-956a-4b289fd7b335
+
+
 
 ### 🟢 Test 2 : Validation de la Solution Complète (4 scénarios)
 Cette vidéo démontre la stabilité finale de l'application après refactorisation :
@@ -54,7 +60,13 @@ Cette vidéo démontre la stabilité finale de l'application après refactorisat
     `adb shell am kill com.example.viewmodellivedatademoenrichi`
     Au redémarrage, la valeur est restaurée grâce au `SavedStateHandle`.
 4.  **Découplage LiveData** : Test réalisé en commentant le code d'observation pour prouver que l'UI est totalement dépendante du flux de données `LiveData`.
-- [▶️ Voir la vidéo de démonstration de la robustesse](videos/Test2_ViewModel_LiveData_Android.mp4)
+- [▶️ Voir la vidéo de démonstration de la robustesse]
+
+
+
+https://github.com/user-attachments/assets/d0586c41-3bb0-4060-a9c9-65422e3ab871
+
+
 
 ---
 
